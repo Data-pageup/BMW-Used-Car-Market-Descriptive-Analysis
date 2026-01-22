@@ -3,7 +3,7 @@
 
 ### The Question : What exaclty are these dataset is? what is about? how we'll it is? what are different columns are about? what description are we gonna do ?
 
-### These are the questions i tried to answer! with my data analysis skill!
+### These are the questions i tried to answer! with my data analysis skill! 
 
 
 ## 1. Dataset Overview
@@ -158,4 +158,6 @@ These likely correspond to:
 
 This descriptive analysis provides a clear overview of the structure, quality, and main patterns in the BMW used car dataset. The results highlight strong relationships between price, age, and mileage, and reveal important differences across fuel types and transmission categories. These insights form a solid foundation for further predictive modeling or inferential analysis.
 
+
+#### by Amirtha Ganesh R
 
